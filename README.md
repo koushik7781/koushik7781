@@ -25,7 +25,6 @@
 </p>
 
 
-[![My's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=koushik7781&&theme=xcode)](https://github.com/koushik7781)
 
 
 
