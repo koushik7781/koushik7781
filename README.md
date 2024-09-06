@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koushik7781&label=Profile%20views&color=0e75b6&style=flat" alt="koushik7781" /> </p>
 
 
-- 🔭 I’m currently working on **Atm simulator system**
+- 🔭 I’m currently working on **React JS**
 
 - 🌱 I’m currently learning **Devops**
 
