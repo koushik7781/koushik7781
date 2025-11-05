@@ -7,15 +7,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koushik7781&label=Profile%20views&color=0e75b6&style=flat" alt="koushik7781" /> </p>
 
 
-- 🔭 I’m currently working on **React JS**
+- 🔭 I’m currently working on **Data-AWS**
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **PySpark**
 
-- 💬 Ask me about **web devlopment , DSA**
+- 💬 Ask me about **AWS,SQL,Spark,BigData**
 
 - 📫 How to reach me **koushik2parimi@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
 
 
 <h3 align="left">Connect with me:</h3>
